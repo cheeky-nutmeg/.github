@@ -1,5 +1,3 @@
-:zap:
-
 # HOWDY WORLD
 
 :zap:
